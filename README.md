@@ -4,20 +4,20 @@ This repository contains solutions for 4 tasks involving LangChain, document loa
 The goal is to demonstrate building basic RAG (Retrieval-Augmented Generation) pipelines in Python.
 
 **📝 Assignment Tasks**
-Simple RAG Pipeline
+1.Simple RAG Pipeline
 
 Build a basic Retrieval-Augmented Generation pipeline that performs Q&A over a document.
 
-Text Generation
+2.Text Generation
 
 Generate short, relevant answers to given prompts without complex sampling parameters.
 
-RetrievalQA with Custom Policy Document
+3.RetrievalQA with Custom Policy Document
 
 Load a sample company policy document and answer the question:
 "What is the refund policy?" using RetrievalQA.
 
-Document Loading & Splitting
+4.Document Loading & Splitting
 
 Load a .txt or .pdf file using LangChain's TextLoader or PyPDFLoader.
 
