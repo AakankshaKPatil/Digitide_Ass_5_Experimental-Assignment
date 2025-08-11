@@ -4,6 +4,7 @@ This repository contains solutions for 4 tasks involving LangChain, document loa
 The goal is to demonstrate building basic RAG (Retrieval-Augmented Generation) pipelines in Python.
 
 **📝 Assignment Tasks**
+
 1.Simple RAG Pipeline
 
 Build a basic Retrieval-Augmented Generation pipeline that performs Q&A over a document.
